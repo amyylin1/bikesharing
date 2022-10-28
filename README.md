@@ -2,6 +2,7 @@
 
 ## Introduction
 This project analyzes the  Citibike dataset with Pandas and Tableau.  
+[Link to NYC Citibike](https://public.tableau.com/app/profile/amy8818/viz/Challenge_16669056664260/nyccitybike)
 
 ## Results
 
