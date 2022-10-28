@@ -51,4 +51,29 @@ There are subscribers than customers for both sexes.
 
 
 ## Summary
-Overall, most males are more committed Citibikes users. 
+Overall, most males are more committed Citibikes users both in subscription and usages.
+
+#### Additional analysis 1: Top location and genders
+![Screen Shot 2022-10-28 at 11 26 54 AM](https://user-images.githubusercontent.com/108419097/198675037-dc00b9f1-f097-49cc-8971-691766cd9b02.png)
+
+As expected, most of locations have more male users. 
+
+#### Additional analysis 2: Top location and user types
+![Screen Shot 2022-10-28 at 11 31 27 AM](https://user-images.githubusercontent.com/108419097/198675949-63d2c18c-aaf3-438b-ae16-aeef6f27d007.png)
+
+Most of the locations users are subscribers. 
+
+#### Additional analysis 3:  August peak hours and genders
+![Screen Shot 2022-10-28 at 11 34 02 AM](https://user-images.githubusercontent.com/108419097/198676502-e20cb778-0dcb-4df1-96e3-8680bb853719.png)
+
+According all hours, there are more male users and females. 
+
+#### Addtional analysis 4: August peak hours and age
+![Screen Shot 2022-10-28 at 11 39 07 AM](https://user-images.githubusercontent.com/108419097/198677552-73d0ade1-a189-4800-8feb-53f9f1e348d2.png)
+
+The average age users are from 1979 to 1883. 
+
+#### Additional analysis 4:  Trips by weekday per hour and age
+![Screen Shot 2022-10-28 at 11 42 53 AM](https://user-images.githubusercontent.com/108419097/198678344-aca3a14b-7b75-48e1-a201-ca1a6295ec85.png)
+
+Birth years clusters between 1950 to 2000.  Most bikes according the week are used by people that are born at 1970s.  
