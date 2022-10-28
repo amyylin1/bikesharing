@@ -51,7 +51,7 @@ There are subscribers than customers for both sexes.
 
 
 ## Summary
-Overall, most males are more committed Citibikes users both in subscription and usages.
+Overall, males are more committed Citibikes users both in subscription and usages.
 
 #### Additional analysis 1: Top location and genders
 ![Screen Shot 2022-10-28 at 11 26 54 AM](https://user-images.githubusercontent.com/108419097/198675037-dc00b9f1-f097-49cc-8971-691766cd9b02.png)
